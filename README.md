@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cole-Richards
-- 👀 I’m interested in music, theology, philosophy, natural language processing, and relationships
+- 👀 I’m interested in music, theology, philosophy, natural language processing, and communication.
 - 🌱 I’m currently learning data science at Lambda School
 - 💞️ I’m looking to collaborate on any natural language processing project. 
 - 📫 How to reach me on twitter @ColeDRichards or by email: richards.coled@gmail.com
