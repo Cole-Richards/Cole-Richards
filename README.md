@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cole-Richards
-- 👀 I’m interested in music, theology, philosophy, natural language processing, and communication.
-- 🌱 I’m currently learning data science at Lambda School
-- 💞️ I’m looking to collaborate on any natural language processing project. 
+- 👀 My career interests are the applicability of computer science to social sciences such as philosophy, politics, and theology
+- 🌱 I’m currently learning data science at Bloom Tech, software engineering on CodeSignal and Leetcode, and web3 on Gitcoin
+- 💞️ I’m looking to collaborate on a natural language processing project, a web3 project, and an image processing project 
 - 📫 How to reach me on twitter @ColeDRichards or by email: richards.coled@gmail.com
 
 <!---
